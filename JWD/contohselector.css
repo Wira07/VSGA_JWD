@@ -1,0 +1,32 @@
+body {
+    background-color: yellow;
+}
+
+#header {
+    background-color: orange;
+    font-size: 20px;
+}
+
+.isi {
+    text-indent: 2cm;
+    font-size: 14px;
+    color: red;
+}
+
+h1,
+p {
+    color: blue;
+    text-align: center;
+}
+
+p.hijau {
+    color: green;
+    letter-spacing: 12px;
+}
+
+footer {
+    background-color: skyblue;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
